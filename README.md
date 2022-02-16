@@ -11,4 +11,4 @@ Steps to use the program:
   5.  Now go to sleep. 
 
 
-![Yes](https://i.giphy.com/media/xUPGcoNpNgqBoqp57y/giphy.mp4)
+![Yes](https://media.giphy.com/media/xUPGcoNpNgqBoqp57y/giphy.gif)
