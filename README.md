@@ -12,3 +12,6 @@ Steps to use the program:
 
 
 ![Yes](https://media.giphy.com/media/xUPGcoNpNgqBoqp57y/giphy.gif)
+
+
+P.S: You will require a .env file with a Giphy Api Key in order for the code to work.
